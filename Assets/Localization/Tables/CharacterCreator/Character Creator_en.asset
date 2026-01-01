@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Character Creator_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9439b519ef2932546b4917bcb59f11e2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21772227243651072
+    m_Localized: Finally.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772413382668288
+    m_Localized: The long-awaited reunion is here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772418088677376
+    m_Localized: Greetings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772418688462848
+    m_Localized: Now that you're here, it seems you're eager to enter a new world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772419225333760
+    m_Localized: First you need to create your incarnation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772419862867968
+    m_Localized: Let's start with appearance. What will it look like?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772420403933184
+    m_Localized: Not bad. Let's continue...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772420928221184
+    m_Localized: Now... create his personality, his ego.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772421574144000
+    m_Localized: The power of your creation will be...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21774810523873280
+    m_Localized: And his greatest fear will be...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772422069071872
+    m_Localized: That's good. We're almost done.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772422610137088
+    m_Localized: The unnamed hero is in danger of fading into oblivion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772423176368128
+    m_Localized: Name your creation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772424287858688
+    m_Localized: And lastly, name it yourself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772424900227072
+    m_Localized: It's wonderful. Truly wonderful.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772425428709376
+    m_Localized: Congratulations. We have given your creation life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21772426066243584
+    m_Localized: You are now free to decide who you want to be in...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

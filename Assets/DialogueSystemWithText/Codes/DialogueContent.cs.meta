@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf02dac1997b2dd4c94fc9fe81132707
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253758
+  packageName: Dialogue System With Text
+  packageVersion: 1.0
+  assetPath: Assets/DialogueSystemWithText/Codes/DialogueContent.cs
+  uploadId: 580913

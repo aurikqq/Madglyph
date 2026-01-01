@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cfcf1579f7e5c0b41bbed53128354022
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253758
+  packageName: Dialogue System With Text
+  packageVersion: 1.0
+  assetPath: Assets/DialogueSystemWithText/Prefabs/DialogueContent.prefab
+  uploadId: 580913
